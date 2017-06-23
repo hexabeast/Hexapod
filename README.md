@@ -8,5 +8,5 @@ Things needed to build the robot:
 - 18650 battery cases and batteries (2x3.7V)
 - Any slim portable smartphone battery (for the Pi)
 
-You also need to install pi-blaster ( https://github.com/sarfata/pi-blaster ), and ffmpeg on the Raspberry Pi, and put the content of the "code" folder in your home directory. 
-Configure the Pi to launch the "launch.sh" script on boot, and it should work.
+You also need to install pi-blaster ( https://github.com/sarfata/pi-blaster ), flask for Python 3, and ffmpeg on the Raspberry Pi, and put the content of the "code" folder in your home directory. 
+Configure the Pi to run "sudo python3 script.py" on boot, and it should work.
