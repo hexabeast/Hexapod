@@ -10,7 +10,7 @@ Things needed to build the robot:
 - 18650 battery cases and li-ion batteries (2x3.7V)
 - Any slim portable smartphone battery (for the Pi)
 
-To build the robot, refer to the schematic picture in this repository. 
+To build the robot, refer to the schematic picture "robot.png" in this repository. 
 You'll need additional materials (tape, glue...) to assemble the robot.
 
 The slim portable smartphone battery should supply power directly to the Pi, and the li-ion batteries are for the 21 servos. 
