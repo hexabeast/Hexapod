@@ -18,6 +18,7 @@ Use the breadboard to do that and add 2 interruptors (one for the Pi, one for th
 
 Each servo needs to be connected to a GPIO pin on the raspberry.
 For each leg clockwise, starting from the back-left leg, and starting from the motor at the extremity of the legs, here is are the GPIO numbers on which the servos should be connected:
+
 4
 17
 27
